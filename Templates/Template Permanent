@@ -1,0 +1,12 @@
+---
+type: permanent
+created: <% tp.date.now("YYYY-MM-DD[T]HH:mm") %>
+tags:
+aliases: 
+---
+
+# {{title}}
+
+
+
+## Reference
