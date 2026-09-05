@@ -1,2 +1,2 @@
 # Obsidian-Zettelkasten
-use Zettelkasten method in obsidian
+use 『Zettelkasten』 method in obsidian
